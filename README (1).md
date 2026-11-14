@@ -118,16 +118,6 @@ missforest
 jupyter
 ```
 
-## Repository structure
-
-```
-.
-├── README.md
-├── requirements.txt
-├── data/
-│   └── day.csv            # not committed; download from UCI
-└── notebooks/
-    └── missing_data_imputation.ipynb
 ```
 
 ## Tools
